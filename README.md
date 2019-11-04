@@ -1,5 +1,4 @@
 # ExerciseApp
-## info
 Simple library store system I wrote as an exercise task at my first job as a fullstack .NET Core developer. 
 Its purpose was to make me more comfortable with tools we're using in the project I'm working on.
 ## Used technologies
